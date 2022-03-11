@@ -8,6 +8,8 @@
 
 多用するとサーバーに負荷が掛かります。
 
+### **[DOWNLOAD Latest-Release](https://github.com/agate-pris/ffxiv-scraper/releases/latest)**
+
 ## 使い方
 
 ブラウザで [The Lodestone]((https://jp.finalfantasyxiv.com/lodestone/) にログインし、ウェブ開発ツールを開き、クッキーの `ldst_sess` の値をコピーし、引数 `-s` に、キャラクターIDを引数 `-c` に渡してください。
